@@ -63,6 +63,4 @@ Open the notebook:
 jupyter notebook Machine_Learning_Projects.ipynb
 ```
 
-## 👨‍💻 Author
 
-Akaal Learning & IT Labs
